@@ -7,3 +7,5 @@ VPN Site-to-Site IKEv1 con Túnel GRE: https://drive.google.com/file/d/17sD7x9MI
 VPN Site-to-Site IKEv2 Basada en Política: https://drive.google.com/file/d/1MkFSim25jiQ7owhW6gFvV46-0yN5iSL4/view?usp=sharing
 
 VPN Site-to-Site IKEv2 Basada en Enrutamiento:  https://drive.google.com/file/d/1sADpajuD97vviXhwhJX0whmLFUaIO8Zg/view?usp=sharing
+
+VPN Site-to-Site IKEv2 con Túnel GRE: https://drive.google.com/file/d/1owFl9s259zId7DEQZwnr0vxsBvdX6XDh/view?usp=sharing
