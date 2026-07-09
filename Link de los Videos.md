@@ -13,3 +13,5 @@ VPN Site-to-Site IKEv2 con Túnel GRE: https://drive.google.com/file/d/1owFl9s25
 DMVPN Fase 2 con IKEv1: https://drive.google.com/file/d/1UwUlAMPGcksIK5gh1ccLridiZj0xuWbH/view?usp=sharing
 
 DMVPN Fase 3 con IKEv2: https://drive.google.com/file/d/10T4dXJAwpl1-SIeP6v1aEENaw2q9lUqe/view?usp=sharing
+
+VPN Cliente-a-Sitio L2TP/IPSec: https://drive.google.com/file/d/1GUsm6Wwh4_DzgawfLiqfjyoOcy0QwaFd/view?usp=sharing
